@@ -1,0 +1,24 @@
+.title{
+    color: brown;
+}
+.list{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.list-container{
+    background-color: rgba(189, 184, 184, 0.938);
+
+}
+.home{
+    background-color: brown;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+}
+

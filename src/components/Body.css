@@ -1,0 +1,33 @@
+
+
+.main-body{
+    background-color:brown;
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.body-top{
+    margin: 10px;
+}
+.btn{
+    background-color: brown;
+    border: 1px solid white;
+    height: 40px;
+    color: aliceblue;
+}
+.buttons{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 10px;
+}
+.body-third{
+    margin: 20px;
+}
+.body-bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
